@@ -1,0 +1,39 @@
+{
+  "name": "lime-slice",
+  "version": "1.0.0",
+  "description": "Money planner program, which should help to save and plan your own budget.",
+  "main": "main.ts",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeDVen/LimeSlice.git"
+  },
+  "keywords": [
+    "money",
+    "planner",
+    "limeslice",
+    "lime",
+    "slice",
+    "react",
+    "ts",
+    "typescript",
+    "js",
+    "javascript"
+  ],
+  "author": "MeDVen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeDVen/LimeSlice/issues"
+  },
+  "homepage": "https://github.com/MeDVen/LimeSlice#readme",
+  "dependencies": {
+    "@types/node": "^12.7.12",
+    "@types/react": "^16.9.5",
+    "@types/react-dom": "^16.9.1",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "typescript": "^3.6.4"
+  }
+}
